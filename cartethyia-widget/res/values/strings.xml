@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartethyia Widget</string>
+    <string name="widget_name">Cartethyia Clock</string>
+    <string name="widget_desc">Wuthering Waves clock. Tap to open the game.</string>
+    <string name="caption">CARTETHYIA  //  AERO</string>
+</resources>

@@ -1,0 +1,26 @@
+# Third-party assets (Kuro Games art and voice lines, fonts): fetched by fetch_assets.py, never committed
+assets/
+out/
+
+# Build outputs that embed those assets
+*.mtz
+*.apk
+*.idsig
+cartethyia-theme/wallpapers/
+cartethyia-theme/sounds/
+cartethyia-theme/previews/
+cartethyia-widget/build/
+cartethyia-widget/res/drawable-nodpi/
+cartethyia-widget/res/font/
+
+# Signing keys
+*.keystore
+*.jks
+
+# Personal device notes
+app-list.md
+undo-tweaks.ps1
+local/
+
+__pycache__/
+*.pyc
